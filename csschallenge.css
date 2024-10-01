@@ -1,0 +1,54 @@
+@font-face {
+    font-family: "sora";
+    src: url(Sora-VariableFont_wght.ttf);
+}
+.jyfads{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    background-color:#FFFFFF ;
+    margin-top: 164px;
+    width: 336px;
+    height: auto;
+    padding-left: 16px;
+    padding-top: 16px;
+    padding-bottom: 20px;
+    padding-right: 16px;
+    border-radius: 5%;
+    
+
+}
+img{
+    border-radius: 5%;
+}
+.desing{
+    background-color:#E6D6FC;
+    float:left;
+    padding-left:16px;
+    padding-right: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 15px;
+    color:#883AE1;
+    font-family: "sora";
+    font-size: 10px;
+}
+h1{
+    font-size: 18px;
+    font-family: "sora";
+    text-align: left;
+    font-weight: 500;
+}
+
+p{
+    color: #6C727F;
+    margin-bottom: 12px;
+    font-family: "sora";
+    font-size: 14px;
+    font-weight:lighter;
+}
+body{background-color: #FAFAF9;}
+hr{color: #E5EAF0;
+margin-bottom: 20px;}
